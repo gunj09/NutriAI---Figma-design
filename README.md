@@ -1,1 +1,1 @@
-# NutriAI---Figma-design
+# NutriAI-Figma-design
